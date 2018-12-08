@@ -1,1 +1,1 @@
-It is my new (second) repository
+It is my new repository and I updated it.
